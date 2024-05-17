@@ -17,7 +17,7 @@ st.markdown(
     }
     </style>
     <div class="custom-text">
-        Hi Hisham, "الشمس لا تغطى بغربال، الاتحاد هو كبير آسيا"
+        "الشمس لا تغطى بغربال، الاتحاد هو كبير آسيا"
     </div>
     """,
     unsafe_allow_html=True
